@@ -1,14 +1,14 @@
 {
   "FolderOrderSettings": [
-    {"name":"Scene Sprites","order":3,"path":"folders/Scene Sprites.yy",},
+    {"name":"GUI","order":6,"path":"folders/GUI.yy",},
     {"name":"Rooms","order":1,"path":"folders/Rooms.yy",},
+    {"name":"Scene Objects","order":7,"path":"folders/Scene Objects.yy",},
+    {"name":"Scene Sprites","order":3,"path":"folders/Scene Sprites.yy",},
     {"name":"breathes","order":13,"path":"folders/Sounds/breathes.yy",},
     {"name":"burp","order":10,"path":"folders/Sounds/burp.yy",},
     {"name":"fart","order":14,"path":"folders/Sounds/fart.yy",},
     {"name":"groan","order":12,"path":"folders/Sounds/groan.yy",},
     {"name":"laughter","order":11,"path":"folders/Sounds/laughter.yy",},
-    {"name":"GUI","order":6,"path":"folders/GUI.yy",},
-    {"name":"Scene Objects","order":7,"path":"folders/Scene Objects.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"hungry6","order":1,"path":"sounds/hungry6/hungry6.yy",},

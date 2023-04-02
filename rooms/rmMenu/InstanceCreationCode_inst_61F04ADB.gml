@@ -1,1 +1,1 @@
-link = "https://discord.com/invite/Vvvgeqw";
+link = "https://github.com/FieryLionite/Nia-Beach-Cafe";
